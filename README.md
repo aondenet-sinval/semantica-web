@@ -7,6 +7,6 @@
 * Tabela - usando tabelas acessíveis.  
 * Imagem - exemplo de como utilizar bem as imagens.  
 * CSS - bom uso do CSS.  
-* Estrutura - estrutura semântica da paǵina.
+* Estrutura - exemplo de estrutura semântica da paǵina.
 
-**Acesse a hospedagem no Vercel[Link](https://semantica-web.vercel.app/)**
+**Acesse a hospedagem no Vercel: [VER ONLINE](https://semantica-web.vercel.app/)**
