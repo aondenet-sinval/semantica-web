@@ -1,7 +1,13 @@
 import Image from 'next/image'
 import Layout from '../components/layout'
+import Head from 'next/head'
 const Imagem = () => {
   return(<Layout>
+    <Head>
+    <title>Imagem - Desenvolvimento SEMÂNTICO</title>
+      <meta name="description" content="Usando corretamente imagens na web" />
+      <link rel="icon" href="/favicon.ico" />
+    </Head>
     <section>
       <header>
         <h1>Usando Imagens de acordo com a semântica WEB</h1>
