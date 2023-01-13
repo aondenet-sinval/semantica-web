@@ -32,7 +32,7 @@ export default function Home() {
             <li>Destacar os títulos com css.</li>
             <li>Uso de ênfase para destacar partes do conteúdo (tag <em lang="en">em</em> e <em lang="en">strong</em>).</li>
             <li>Lembre-se que algumas pessoas possuem dificuldade em diferenciar cores.</li>
-            
+
           </ol>
           <h3>Veja a diferença do uso de <em lang="en">em</em> (tag) abaixo nas palavras feliz e triste. E <em lang="en">strong</em> em nervoso.</h3>
           <p>Estou <em>feliz</em> em viajar mas <em>triste</em>  com a condição do meio ambiente. Também fiquei <strong>nervoso</strong> devido aos atrasos na viajem.</p>
@@ -48,6 +48,13 @@ export default function Home() {
           </details>
         </article>
       </section>
+      <style jsx> {`
+        summary{
+          padding: 10px;
+          background-color: #CCC;
+        }
+        `}
+      </style>
     </Layout>
   )
 }
