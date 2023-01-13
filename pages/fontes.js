@@ -15,6 +15,8 @@ const Fontes = () => {
       <ul>
         <li><a href="https://developers.google.com/search/docs/fundamentals/creating-helpful-content">Criação de conteúdo</a></li>
         <li><a href="https://developers.google.com/search">Central do Webmaster</a></li>
+        <li><a href="https://developers.google.com/search/docs/appearance/structured-data/intro-structured-data?hl=pt-br">Marcação de dados estruturados na Pesquisa do Google</a></li>
+        <li><a href="https://developers.google.com/search/docs/fundamentals/get-started-developers?hl=pt-br">Guia do desenvolvedor para a Pesquisa do Google</a></li>
       </ul>
       <h2 className="w3-large">Gov.br</h2>
       <ul>
