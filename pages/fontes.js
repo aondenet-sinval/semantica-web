@@ -1,4 +1,6 @@
-const Fonts = () => {
+import Layout from '../components/layout'
+import Head from 'next/head'
+const Fontes = () => {
   return(<Layout>
     <Head>
     <title>Fontes - Desenvolvimento SEMÂNTICO</title>
@@ -17,3 +19,4 @@ const Fonts = () => {
     </Layout>
   )
 }
+export default Fontes

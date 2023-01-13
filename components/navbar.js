@@ -11,6 +11,7 @@ const NavBar = () => {
         <li><Link href="/imagem" className="w3-button">Imagem</Link></li>
         <li><Link href="/css" className="w3-button">CSS</Link></li>
         <li><Link href="/estrutura" className="w3-button">Estrutura</Link></li>
+        <li><Link href="/fontes" className="w3-button">Fontes</Link></li>
       </ul>
       </nav>
     </header>
