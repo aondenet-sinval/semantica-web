@@ -18,7 +18,7 @@ const Tabela = () => {
       <table className="w3-table">
         <caption>Resumo de frutas disponíveis(preço/kg/unidade):</caption>
         <thead>
-          <tr className="w3-green">
+          <tr className="w3-black">
             <th scope="col">Fruta</th>
             <th scope="col">Produtor</th>
             <th scope="col">Colheita</th>
@@ -32,7 +32,7 @@ const Tabela = () => {
             <td>12/01/2023</td>
             <td>R$ 12,00</td>
           </tr>
-          <tr className="w3-light-green">
+          <tr className="w3-indigo">
             <th scope="row">Jaca</th>
             <td>MST/organico</td>
             <td>12/01/2023</td>
@@ -44,7 +44,7 @@ const Tabela = () => {
             <td>12/01/2023</td>
             <td>R$ 6,00</td>
           </tr>
-          <tr className="w3-light-green">
+          <tr className="w3-indigo">
             <th scope="row">Graviola</th>
             <td>Genérico/Organica</td>
             <td>12/01/2023</td>
@@ -56,7 +56,7 @@ const Tabela = () => {
             <td>12/01/2023</td>
             <td>R$ 10,00</td>
           </tr>
-          <tr className="w3-light-green">
+          <tr className="w3-indigo">
             <th scope="row">Mamão</th>
             <td>Importada/não organica</td>
             <td>12/01/2023</td>
@@ -68,7 +68,7 @@ const Tabela = () => {
             <td>12/01/2023</td>
             <td>R$ 19,00</td>
           </tr>
-          <tr className="w3-light-green">
+          <tr className="w3-indigo">
             <th scope="row">Pera</th>
             <td>Importada/não organica</td>
             <td>12/01/2023</td>
@@ -80,7 +80,7 @@ const Tabela = () => {
             <td>12/01/2023</td>
             <td>R$ 8,00</td>
           </tr>
-          <tr className="w3-light-green">
+          <tr className="w3-indigo">
             <th scope="row">Abacate</th>
             <td>Genérico/organico</td>
             <td>12/01/2023</td>
@@ -92,7 +92,7 @@ const Tabela = () => {
             <td>12/01/2023</td>
             <td>R$ 15,00</td>
           </tr>
-          <tr className="w3-light-green">
+          <tr className="w3-indigo">
             <th scope="row">Tangerina</th>
             <td>Genérica/não organica</td>
             <td>12/01/2023</td>
@@ -128,6 +128,13 @@ const Tabela = () => {
           </ul>
         </details>
       </section>
+      <style jsx> {`
+        summary{
+          padding: 10px;
+          background-color: #CCC;
+        }
+        `}
+      </style>
     </Layout>
   )
 }
