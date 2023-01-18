@@ -23,7 +23,7 @@ const NavBarMobile = () => {
         Sinval Gomes Desenvolvimento WEB - Prado BA
       </h1>
       <nav  role="navigation">
-        <strong className="w3-button" onClick={setMobile}>
+        <strong className="w3-button w3-white" onClick={setMobile}>
           <FontAwesomeIcon icon={faBars} />
         </strong>
         <ul className={bar}>
