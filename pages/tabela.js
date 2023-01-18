@@ -111,7 +111,7 @@ const Tabela = () => {
           <summary>Visualmente essa é uma tabela acessível pois possui os seguintes pontos a favor:</summary>
           <ul>
             <li>
-              O cabeçalho está diferenciado recebendo com única.
+              O cabeçalho está diferenciado recebendo cor única.
             </li>
             <li>
               As linhas estão em cores diferentes, não deixando dúvida.
@@ -120,7 +120,7 @@ const Tabela = () => {
               As informações são bem destacadas para o usuário.
             </li>
             <li>
-              A navegação para quem usa apenas teclado podem ser percorridas facimente.
+              A navegação para quem usa apenas teclado pode ser feita facilmente.
             </li>
             <li>
               A tabela foi preparada para o uso com leitor de tela.

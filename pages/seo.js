@@ -19,9 +19,9 @@ const Seo = () => {
         <li><a href="https://www.contentkingapp.com/academy/seo-guide/">ContentKing</a></li>
         <li><a href="https://learningseo.io/seo-fundamentals/">LearningSEO.io</a></li>
       </ul>
-      <section itemscope itemtype="https://schema.org/CreativeWork">
-      <h2  className="w3-large" itemprop="name">Dicas de aprendizado de SEO.</h2>
-      <p>Autor: <span itemprop="author">Sinval Gomes dos Santos.</span></p>
+      <section itemScope itemType="https://schema.org/CreativeWork">
+      <h2  className="w3-large" itemProp="name">Dicas de aprendizado de SEO.</h2>
+      <p>Autor: <span itemProp="author">Sinval Gomes dos Santos.</span></p>
       <p>Nota: Conteudo em construção.</p>
       </section>
     </section>
