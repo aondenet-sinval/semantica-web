@@ -2,6 +2,7 @@
   "name": "semantica-web",
   "version": "0.1.0",
   "private": true,
+  "license": "Creative Commons Atribuição 4.0 Internacional",
   "scripts": {
     "dev": "next dev",
     "build": "next build",

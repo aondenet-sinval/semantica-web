@@ -27,7 +27,7 @@ const NavBarMobile = () => {
       <nav  role="navigation">
         <i className="w3-padding w3-button" tabIndex="0" onClick={setMobile}>
           <Image width={50} height={37} className="w3-bar"
-            alt="" src="/img/icons/bars.png"
+            alt="" src="/img/icons/bars.svg"
           />
         </i>
         <ul className={bar}>
@@ -38,6 +38,7 @@ const NavBarMobile = () => {
         <li onClick={setMobile}><Link href="/estrutura" className="w3-button bar w3-bar-item w3-mobile">Estrutura</Link></li>
         <li onClick={setMobile}><Link href="/fontes" className="w3-button bar w3-bar-item w3-mobile">Fontes</Link></li>
         <li onClick={setMobile}><Link href="/seo" className="w3-button bar w3-bar-item w3-mobile">SEO</Link></li>
+        <li onClick={setMobile}><Link href="/svg" className="w3-button bar w3-bar-item w3-mobile">SVG</Link></li>
         </ul>
       </nav>
     </header>

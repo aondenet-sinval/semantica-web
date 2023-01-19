@@ -10,7 +10,7 @@ const NavBar = () => {
     setNavBar(myScreen)
   },[])
   return(<>
-    { navBar > 1000
+    { navBar < 1000
       ? <NavBarDesktop />
       : <NavBarMobile />
     }

@@ -1,6 +1,4 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<!-- Created with Inkscape (http://www.inkscape.org/) -->
-
 <svg
    xmlns:dc="http://purl.org/dc/elements/1.1/"
    xmlns:cc="http://creativecommons.org/ns#"
@@ -15,7 +13,7 @@
    viewBox="0 0 127 119.44047"
    version="1.1"
    id="svg188"
-   inkscape:version="0.92.3 (2405546, 2018-03-11)"
+   inkscape:version="1.0.2 (1.0.2+r75+1)"
    sodipodi:docname="zap.svg"
    inkscape:export-filename="/home/sr/git/semantica-web/public/img/icons/zap.png"
    inkscape:export-xdpi="96"
@@ -42,7 +40,7 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="0.24748737"
-     inkscape:cx="-547.02268"
+     inkscape:cx="-1207.6625"
      inkscape:cy="145.22406"
      inkscape:document-units="mm"
      inkscape:current-layer="layer1"
@@ -56,7 +54,8 @@
      inkscape:window-x="0"
      inkscape:window-y="25"
      inkscape:window-maximized="1"
-     units="px" />
+     units="px"
+     inkscape:document-rotation="0" />
   <metadata
      id="metadata185">
     <rdf:RDF>
@@ -75,44 +74,40 @@
      id="layer1"
      transform="translate(-40.821426,-67.190479)">
     <g
-       id="g203"
-       clip-path="url(#clipPath205)">
-      <g
-         inkscape:label="Clip"
-         id="g201">
-        <ellipse
-           style="fill:#000000;stroke-width:0.26458332"
-           ry="59.720234"
-           rx="63.5"
-           cy="126.91071"
-           cx="104.32143"
-           id="path190" />
-        <ellipse
-           ry="43.845238"
-           rx="42.333332"
-           cy="123.8869"
-           cx="103.56548"
-           id="path192"
-           style="fill:#008000;stroke-width:0.33269313" />
-        <path
-           transform="matrix(1,0,0,0.58760696,37.797619,50.389868)"
-           inkscape:transform-center-y="-3.7757254"
-           inkscape:transform-center-x="-2.3727709"
-           d="m 62.744048,196.45834 -29.37723,4.10976 -29.3772285,4.10976 11.1294595,-27.49631 11.129455,-27.49631 18.247771,23.38655 z"
-           inkscape:randomized="0"
-           inkscape:rounded="0"
-           inkscape:flatsided="false"
-           sodipodi:arg2="1.4318023"
-           sodipodi:arg1="0.38460471"
-           sodipodi:r2="17.126116"
-           sodipodi:r1="34.252235"
-           sodipodi:cy="183.60715"
-           sodipodi:cx="30.994047"
-           sodipodi:sides="3"
-           id="path194"
-           style="fill:#008000;stroke-width:0.26458332"
-           sodipodi:type="star" />
-      </g>
+       inkscape:label="Clip"
+       id="g201">
+      <ellipse
+         style="fill:#000000;stroke-width:0.264583"
+         ry="59.720234"
+         rx="63.5"
+         cy="126.91071"
+         cx="104.32143"
+         id="path190" />
+      <ellipse
+         ry="43.845238"
+         rx="42.333332"
+         cy="123.8869"
+         cx="103.56548"
+         id="path192"
+         style="fill:#008000;stroke-width:0.332693" />
+      <path
+         transform="matrix(1,0,0,0.58760696,37.797619,50.389868)"
+         inkscape:transform-center-y="-3.7757254"
+         inkscape:transform-center-x="-2.3727709"
+         inkscape:randomized="0"
+         inkscape:rounded="0"
+         inkscape:flatsided="false"
+         sodipodi:arg2="1.4318023"
+         sodipodi:arg1="0.38460471"
+         sodipodi:r2="17.126116"
+         sodipodi:r1="34.252235"
+         sodipodi:cy="183.60715"
+         sodipodi:cx="30.994047"
+         sodipodi:sides="3"
+         id="path194"
+         style="fill:#008000;stroke-width:0.264583"
+         sodipodi:type="star"
+         d="m 62.744048,196.45834 -29.37723,4.10976 -29.3772285,4.10976 11.1294595,-27.49631 11.129455,-27.49631 18.247771,23.38655 z" />
     </g>
   </g>
 </svg>
