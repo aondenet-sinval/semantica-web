@@ -11,6 +11,7 @@ const Estrutura = ()=> {
     <h1>Estrutura semantica de um projeto simples</h1>
       <Image src="/img/estrutura-semantica.png"
         alt="Estrutura Base do site Pousada Model"
+        className="w3-mobile"
         width={784} height={732}
       />
       <p>Futuramente haverá melhorias.</p>

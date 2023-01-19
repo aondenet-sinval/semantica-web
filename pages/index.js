@@ -14,7 +14,7 @@ export default function Home() {
       <section>
         <header>
           <h1 className={styles.title}>
-            DESENVOLVIMENTO SEMANTICO COM NEXTJS
+            DESENVOLVIMENTO SEMANTICO COM NEXTJS <i className="faSolid faUser"></i>
           </h1>
         </header>
         <article>
