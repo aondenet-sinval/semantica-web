@@ -9,8 +9,6 @@ const Seo = () => {
         <meta name="description" content="Aplicando SVG no nextjs - ícones grátis" />
         <link rel="icon" href="/favicon.ico" />
       </Head>
-      <h1>Teste</h1>
-
       <section>
         <header>
           <h1 className="w3-xlarge">Aplicando SVG:</h1>
