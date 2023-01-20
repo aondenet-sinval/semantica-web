@@ -43,10 +43,17 @@ const Seo = () => {
       <h2>Imagens SVG - arquivos:</h2>
     </header>
      <section className="rows">
+     <header>
+       <h3>Ícones</h3>
+     </header>
       <Image className="margins" src="/img/icons/estrelas.svg" width={100} height={100} alt="" />
       <Image className="margins" src="/img/icons/zap.svg" width={100} height={100} alt="" />
       <Image className="margins" src="/img/icons/bars.svg" width={100} height={100} alt="" />
       <Image className="margins" src="/img/icons/drinks.svg" width={100} height={100} alt="" />
+      <Image className="margins" src="/img/icons/flash.svg" width={100} height={100} alt="" />
+      <Image className="margins" src="/img/icons/checked.svg" width={100} height={100} alt="" />
+      <Image className="margins" src="/img/icons/spinner.svg" width={100} height={100} alt="" />
+      <Image className="margins" src="/img/icons/aple.svg" width={100} height={100} alt="" />
      </section>
     </section>
     <style jsx>{`
