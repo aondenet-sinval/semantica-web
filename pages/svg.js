@@ -2,6 +2,7 @@ import Layout from '../components/layout'
 import Image from 'next/image'
 import Head from 'next/head'
 import Link from 'next/link'
+import styled from '../styles/Home.module.css'
 const Seo = () => {
   return(<Layout>
       <Head>
@@ -23,7 +24,7 @@ const Seo = () => {
         <Image className="margins" src="/img/icons/drinks.svg" width={100} height={100} alt="Drinks" />
         <Image className="margins" src="/img/icons/flash.svg" width={100} height={100} alt="Flash" />
         <Image className="margins" src="/img/icons/checked.svg" width={100} height={100} alt="Checked" />
-        <Image className="margins" src="/img/icons/spinner.svg" width={100} height={100} alt="Spinner" />
+        <Image className={styled.rotater} src="/img/icons/spinners.svg" width={100} height={100} alt="Spinner" />
         <Image className="margins" src="/img/icons/aple.svg" width={100} height={100} alt="Aple" />
        </section>
       </section>

@@ -20,6 +20,18 @@
    inkscape:export-ydpi="96">
   <defs
      id="defs182">
+    <rect
+       x="75.759158"
+       y="121.05592"
+       width="25.210092"
+       height="18.163798"
+       id="rect84" />
+    <rect
+       x="76.151469"
+       y="120.00759"
+       width="51.619471"
+       height="17.497436"
+       id="rect15" />
     <clipPath
        clipPathUnits="userSpaceOnUse"
        id="clipPath205">
@@ -31,6 +43,85 @@
          width="100%"
          height="100%" />
     </clipPath>
+    <rect
+       x="76.151466"
+       y="120.00759"
+       width="51.619473"
+       height="17.497437"
+       id="rect15-3" />
+    <rect
+       x="76.151466"
+       y="120.00759"
+       width="51.619473"
+       height="17.497437"
+       id="rect28" />
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath64">
+      <g
+         inkscape:label="Clip"
+         id="use66"
+         style="fill:#000000">
+        <text
+           xml:space="preserve"
+           id="text72"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:14.1111px;line-height:1.25;font-family:Dyuthi;-inkscape-font-specification:Dyuthi;white-space:pre;shape-inside:url(#rect15);fill:#000000;fill-opacity:1;stroke:none;"
+           transform="matrix(6.9688182,0,0,2.5429806,-470.09907,-200.10986)"><tspan
+             x="76.152344"
+             y="131.65223"><tspan
+               style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:14.1111px;font-family:Dyuthi;-inkscape-font-specification:Dyuthi;fill:#000000">M</tspan></tspan></text>
+        <text
+           xml:space="preserve"
+           id="text78"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:14.1111px;line-height:1.25;font-family:Dyuthi;-inkscape-font-specification:Dyuthi;white-space:pre;shape-inside:url(#rect15-3);fill:#000000;fill-opacity:1;stroke:none;"
+           transform="matrix(6.9688182,0,0,-2.8607643,-470.19264,493.12744)"><tspan
+             x="76.152344"
+             y="131.65223"><tspan
+               style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:14.1111px;font-family:Dyuthi;-inkscape-font-specification:Dyuthi;fill:#000000">M</tspan></tspan></text>
+      </g>
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath48">
+      <g
+         inkscape:label="Clip"
+         id="use50">
+        <g
+           inkscape:label="Clip"
+           id="g64"
+           style="fill:#000000"
+           transform="matrix(1,0,0,1.4304768,1.4941623,-59.281106)">
+          <text
+             xml:space="preserve"
+             id="text56"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:14.1111px;line-height:1.25;font-family:Dyuthi;-inkscape-font-specification:Dyuthi;white-space:pre;shape-inside:url(#rect15);fill:#000000;fill-opacity:1;stroke:none;"
+             transform="matrix(6.9688182,0,0,2.5429806,-470.09907,-200.10986)"><tspan
+               x="76.152344"
+               y="131.65223"><tspan
+                 style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:14.1111px;font-family:Dyuthi;-inkscape-font-specification:Dyuthi;fill:#000000">M</tspan></tspan></text>
+          <text
+             xml:space="preserve"
+             id="text62"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:14.1111px;line-height:1.25;font-family:Dyuthi;-inkscape-font-specification:Dyuthi;white-space:pre;shape-inside:url(#rect15-3);fill:#000000;fill-opacity:1;stroke:none;"
+             transform="matrix(6.9688182,0,0,-2.8607643,-470.19264,493.12744)"><tspan
+               x="76.152344"
+               y="131.65223"><tspan
+                 style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:14.1111px;font-family:Dyuthi;-inkscape-font-specification:Dyuthi;fill:#000000">M</tspan></tspan></text>
+        </g>
+      </g>
+    </clipPath>
+    <rect
+       x="75.759155"
+       y="121.05592"
+       width="25.210093"
+       height="18.163797"
+       id="rect84-8" />
+    <rect
+       x="75.759155"
+       y="121.05592"
+       width="25.210093"
+       height="18.163797"
+       id="rect97" />
   </defs>
   <sodipodi:namedview
      id="base"
@@ -39,9 +130,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.24748737"
-     inkscape:cx="-1207.6625"
-     inkscape:cy="145.22406"
+     inkscape:zoom="0.71238679"
+     inkscape:cx="332.88401"
+     inkscape:cy="306.76334"
      inkscape:document-units="mm"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -109,5 +200,21 @@
          sodipodi:type="star"
          d="m 62.744048,196.45834 -29.37723,4.10976 -29.3772285,4.10976 11.1294595,-27.49631 11.129455,-27.49631 18.247771,23.38655 z" />
     </g>
+    <text
+       xml:space="preserve"
+       id="text82"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:14.1111px;line-height:1.25;font-family:Dyuthi;-inkscape-font-specification:Dyuthi;white-space:pre;shape-inside:url(#rect84);fill:#000000;fill-opacity:1;stroke:none;"
+       transform="matrix(6.4727495,0,0,0.72179422,-426.76396,30.994159)"><tspan
+         x="75.759766"
+         y="132.70105"><tspan
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:14.1111px;font-family:Dyuthi;-inkscape-font-specification:Dyuthi">M</tspan></tspan></text>
+    <text
+       xml:space="preserve"
+       id="text82-9"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:14.1111px;line-height:1.25;font-family:Dyuthi;-inkscape-font-specification:Dyuthi;white-space:pre;shape-inside:url(#rect84-8);fill:#000000;fill-opacity:1;stroke:none;"
+       transform="matrix(6.4727495,0,0,-0.80035151,-427.0464,234.84504)"><tspan
+         x="75.759766"
+         y="132.70105"><tspan
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:14.1111px;font-family:Dyuthi;-inkscape-font-specification:Dyuthi">M</tspan></tspan></text>
   </g>
 </svg>

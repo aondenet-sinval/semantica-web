@@ -76,3 +76,21 @@
     filter: invert(1);
   }
 }
+.rotater {
+  height: 40vmin;
+  pointer-events: none;
+}
+.rotater {
+  animation: rotation-spinner infinite 1s linear;
+}
+@keyframes rotation-spinner {
+  0% {
+    transform: rotate(0deg);
+  }
+  50% {
+    transform: rotate(270deg);
+  }
+  100% {
+    transform: rotate(360deg);
+  }
+}
