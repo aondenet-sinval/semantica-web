@@ -28,8 +28,9 @@ const NavBarDesktop = () => {
         flexDirection: row;
         list-style: none;
       }
-      nav h2{fontSize: 1.2rem;}
+      nav h2{fontSize: 18px;}
       h1{fontSize: 20px;}
+      li:active{ background-color: blue;}
       `}
     </style>
   </>)

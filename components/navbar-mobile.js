@@ -55,7 +55,7 @@ const NavBarMobile = () => {
         list-style: none;
       }
       li{ width: 180px;}
-      nav h2{fontSize: 1.2rem;}
+      nav h2{fontSize: 18px;}
       h1{fontSize: 20px;}
       img{
         width: auto;

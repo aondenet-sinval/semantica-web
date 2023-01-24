@@ -119,10 +119,11 @@ const Tabela = () => {
             <li>
               As informações são bem destacadas para o usuário.
             </li>
-            <li>
+            {/*Aplicando seletores complexos*/}
+            <li id="no">
               A navegação para quem usa apenas teclado pode ser feita facilmente.
             </li>
-            <li>
+            <li id="ok">
               A tabela foi preparada para o uso com leitor de tela.
             </li>
           </ul>
@@ -132,6 +133,12 @@ const Tabela = () => {
         summary{
           padding: 10px;
           background-color: #CCC;
+        }
+        li[id$="k"]{
+          background-color: yellow;
+        }
+        li[id^="n"]{
+          background-color: pink;
         }
         `}
       </style>

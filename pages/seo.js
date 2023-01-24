@@ -25,6 +25,13 @@ const Seo = () => {
       <p>Nota: Conteudo em construção.</p>
       </section>
     </section>
+    <style jsx>{`
+      li{
+        list-style-image:
+        url("/img/icons/checked-list.svg")
+      }
+      `}
+    </style>
     </Layout>
   )
 }
