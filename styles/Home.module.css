@@ -131,7 +131,7 @@
   transform: scale(0.8) skew(18deg) rotate(40deg)/* para browsers sem prefixo */
 }
 /* Seletores simples */
-#text div {
+#text {
   width: 60px;
   height: 40px;
   background-color: red;
@@ -156,5 +156,35 @@
   }
   100% {
     background-color:red; left:0px; top:0px; transform: rotate(360deg); color: black;
+  }
+}
+
+/* transform 3D */
+/* Seletores simples */
+#tresd {
+  width: 90px;
+  height: 40px;
+  background-color: red;
+  border-radius: 10px;
+  padding: 10px;
+  margin: 5px;
+  position: relative;
+  animation: text-3d 10s linear 3s infinite alternate;
+}
+@keyframes text-3d {
+  0%   {
+  background-color:red; left:0px; top:0px; color: white; transform: rotateY(0deg);
+  }
+  25%  {
+    background-color:yellow; left: 180px; top:0px;  transform: rotateY(20deg); color: black;
+  }
+  50%  {
+    background-color:blue; left:180px; top:70px; transform: rotateY(40deg);
+  }
+  75%  {
+    background-color:green; left:0px; top:70px; color: white; transform: rotateY(180deg);
+  }
+  100% {
+    background-color:red; left:0px; top:0px; transform: rotateY(360deg); color: black;
   }
 }

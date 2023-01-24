@@ -8,11 +8,11 @@ const TextRotation = () => {
         <h3>Keyframes:</h3>
       </header>
       <p id={styles.text}>
-        <div>
         CSS3
-        </div>
       </p>
-
+      <p id={styles.tresd}>
+        CSS3 3D
+      </p>
     </section>
     </>
   )
