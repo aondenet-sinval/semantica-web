@@ -1,0 +1,87 @@
+<style>
+/* transform 3D */
+/* Seletores simples */
+#rotate-x {
+  width: 90px;
+  height: 40px;
+  background-color: red;
+  border-radius: 10px;
+  padding: 10px;
+  margin: 5px;
+  position: relative;
+  animation: text-x 10s linear 3s infinite alternate;
+}
+@keyframes text-x {
+  0%   {
+  background-color:red; left:0px; top:0px; color: white; transform: rotateX(40deg);
+  }
+  25%  {
+    background-color:yellow; left: 180px; top:0px;  transform: rotateX(80deg); color: black;
+  }
+  50%  {
+    background-color:blue; left:180px; top:0px; transform: rotateX(100deg);
+  }
+  75%  {
+    background-color:green; left:0px; top:0px; color: white; transform: rotateX(180deg);
+  }
+  100% {
+    background-color:red; left:0px; top:0px; transform: rotateX(360deg); color: black;
+  }
+}
+
+#rotate-y {
+  width: 90px;
+  height: 40px;
+  background-color: red;
+  border-radius: 10px;
+  padding: 10px;
+  margin: 5px;
+  position: relative;
+  animation: text-y 10s linear 3s infinite alternate;
+}
+@keyframes text-y {
+  0%   {
+  background-color:red; left:0px; top:0px; color: white; transform: rotateY(40deg);
+  }
+  25%  {
+    background-color:yellow; left: 180px; top:0px;  transform: rotateY(80deg); color: black;
+  }
+  50%  {
+    background-color:blue; left:180px; top:0px; transform: rotateY(100deg);
+  }
+  75%  {
+    background-color:green; left:0px; top:0px; color: white; transform: rotateY(180deg);
+  }
+  100% {
+    background-color:red; left:0px; top:0px; transform: rotateY(360deg); color: black;
+  }
+}
+
+#rotate-z {
+  width: 90px;
+  height: 40px;
+  background-color: red;
+  border-radius: 10px;
+  padding: 10px;
+  margin: 5px;
+  position: relative;
+  animation: text-z 10s linear 3s infinite alternate;
+}
+@keyframes text-z {
+  0%   {
+  background-color:red; left:0px; top:0px; color: white; transform: rotateZ(40deg);
+  }
+  25%  {
+    background-color:yellow; left: 180px; top:0px;  transform: rotateZ(80deg); color: black;
+  }
+  50%  {
+    background-color:blue; left:180px; top:0px; transform: rotateZ(100deg);
+  }
+  75%  {
+    background-color:green; left:0px; top:0px; color: white; transform: rotateZ(180deg);
+  }
+  100% {
+    background-color:red; left:0px; top:0px; transform: rotateZ(360deg); color: black;
+  }
+}
+</style>

@@ -170,19 +170,22 @@
   margin: 5px;
   position: relative;
   animation: text-3d 10s linear 3s infinite alternate;
+  transform: rotateY(30deg);
 }
 @keyframes text-3d {
   0%   {
-  background-color:red; left:0px; top:0px; color: white; transform: rotateY(0deg);
+  background-color:red; left:0px; top:0px; color: white; transform: rotateY(40deg);
   }
   25%  {
-    background-color:yellow; left: 180px; top:0px;  transform: rotateY(20deg); color: black;
+    background-color:yellow; left: 180px; top:0px;  transform: rotateY(80deg); color: black;
+    transform: rotateZ(80deg);
   }
   50%  {
-    background-color:blue; left:180px; top:70px; transform: rotateY(40deg);
+    background-color:blue; left:180px; top:70px; transform: rotateY(100deg);
   }
   75%  {
     background-color:green; left:0px; top:70px; color: white; transform: rotateY(180deg);
+    transform: rotateX(80deg);
   }
   100% {
     background-color:red; left:0px; top:0px; transform: rotateY(360deg); color: black;
