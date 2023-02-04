@@ -30,7 +30,11 @@ const Multimidia = () => {
             Devemos inserir botões que sejam acessíveis usando javascript.
           </li>
         </ul>
-        <h2>VÍDEO</h2>
+        <div itemscope itemtype ="https://schema.org/Movie">
+          <h2 itemprop="name" >Vídeo - Mulher caminhando na praia.</h2>
+          <p>Autora: <span itemprop="director" >Taryn Elliott</span></p>
+          <p>Encotre a autora no <a href="https://www.pexels.com/pt-br/@taryn-elliott/" itemprop="trailer" >Pexels</a></p>
+        </div>
         <Video />
         <h2>ÁUDIO</h2>
         <Audio />

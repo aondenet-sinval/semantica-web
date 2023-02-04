@@ -8,13 +8,13 @@ const Video = () => {
     <>
         <section className="player">
           <video controls>
-            <source src="/video/web-semantica.mp4" type="video/mp4" />
-            <source src="/video/websemantica.webm" type="video/webm" />
+            <source src="/video/taryn.mp4" type="video/mp4" />
+            <source src="/video/taryn.webm" type="video/webm" />
             <p>
               Seu navegador não suporta html vídeo. Veja
               <a href="/video/web-semantica.mp4">o link do</a> vídeo.
             </p>
-          </video>
+          </video>          
           <div className="controls">
             <button className="playpause">Play</button>
             <button className="stop">Stop</button>
