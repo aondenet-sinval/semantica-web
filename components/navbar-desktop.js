@@ -17,6 +17,7 @@ const NavBarDesktop = () => {
         <li><Link href="/fontes" className="w3-button">Fontes</Link></li>
         <li><Link href="/seo" className="w3-button">SEO</Link></li>
         <li><Link href="/svg" className="w3-button">SVG</Link></li>
+        <li><Link href="/multimidia" className="w3-button">Multimídia</Link></li>
       </ul>
       </nav>
     </header>
