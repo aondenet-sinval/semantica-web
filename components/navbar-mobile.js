@@ -40,6 +40,7 @@ const NavBarMobile = () => {
         <li onClick={setMobile}><Link href="/seo" className="w3-button bar w3-bar-item w3-mobile">SEO</Link></li>
         <li onClick={setMobile}><Link href="/svg" className="w3-button bar w3-bar-item w3-mobile">SVG</Link></li>
         <li onClick={setMobile}><Link href="/multimidia" className="w3-button bar w3-bar-item w3-mobile">Multimídia</Link></li>
+        <li onClick={setMobile}><Link href="/modal" className="w3-button bar w3-bar-item w3-mobile">Modal</Link></li>
         </ul>
       </nav>
     </header>

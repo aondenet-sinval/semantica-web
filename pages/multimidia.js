@@ -36,7 +36,7 @@ const Multimidia = () => {
           <p>Encotre a autora no <a href="https://www.pexels.com/pt-br/@taryn-elliott/" itemprop="trailer" >Pexels</a></p>
         </div>
         <Video />
-        <h2>ÁUDIO</h2>
+        <h2>ÁUDIO - Jhenyfer Lira: "Plano B"</h2>
         <Audio />
       </section>
       <style jsx> {`
