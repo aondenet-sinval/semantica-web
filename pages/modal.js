@@ -19,7 +19,7 @@ const Modal = () => {
           </h2>
         </header>
         <p>Observe essa modal que é um exemplo de funcionalidade tirado da eMAGv31.<br />
-        Tente percorrer a página usando somente o teclado.<br />
+        Tente percorrer a página usando somente o teclado. Verifique também somente no modal.<br />
         Adicionei ao link somente o plano de fundo e fonte <strong lang="en"> white</strong>.</p>
         <MyModal />
       </section>
